@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.1ee14a89.css",
+    "main.js": "/Portfolio/static/js/main.029c5e9c.js",
+    "static/js/787.e53e4102.chunk.js": "/Portfolio/static/js/787.e53e4102.chunk.js",
+    "static/media/marwen.jpg": "/Portfolio/static/media/marwen.b41eee1f28fe2b3c8840.jpg",
+    "static/media/marwenAbout.jpg": "/Portfolio/static/media/marwenAbout.d370799c3fd9bca2d706.jpg",
+    "static/media/Marwen Nahdi CV-en.pdf": "/Portfolio/static/media/Marwen Nahdi CV-en.f6001b427f3759de58b1.pdf",
+    "index.html": "/Portfolio/index.html",
+    "main.1ee14a89.css.map": "/Portfolio/static/css/main.1ee14a89.css.map",
+    "main.029c5e9c.js.map": "/Portfolio/static/js/main.029c5e9c.js.map",
+    "787.e53e4102.chunk.js.map": "/Portfolio/static/js/787.e53e4102.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ee14a89.css",
+    "static/js/main.029c5e9c.js"
+  ]
+}
