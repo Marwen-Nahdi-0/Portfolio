@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "//marwen-nahdi-0.github.io/Portfolio/static/css/main.d9e4518f.css",
+    "main.js": "//marwen-nahdi-0.github.io/Portfolio/static/js/main.1b3bfd7b.js",
+    "static/js/787.158a44fe.chunk.js": "//marwen-nahdi-0.github.io/Portfolio/static/js/787.158a44fe.chunk.js",
+    "static/media/marwenAbout.jpeg": "//marwen-nahdi-0.github.io/Portfolio/static/media/marwenAbout.3a5465899714e8386899.jpeg",
+    "static/media/marwen.jpeg": "//marwen-nahdi-0.github.io/Portfolio/static/media/marwen.5bc397852848e81450de.jpeg",
+    "static/media/Marwen Nahdi CV.pdf": "//marwen-nahdi-0.github.io/Portfolio/static/media/Marwen Nahdi CV.0a44ea98d3e303ede64b.pdf",
+    "index.html": "//marwen-nahdi-0.github.io/Portfolio/index.html",
+    "main.d9e4518f.css.map": "//marwen-nahdi-0.github.io/Portfolio/static/css/main.d9e4518f.css.map",
+    "main.1b3bfd7b.js.map": "//marwen-nahdi-0.github.io/Portfolio/static/js/main.1b3bfd7b.js.map",
+    "787.158a44fe.chunk.js.map": "//marwen-nahdi-0.github.io/Portfolio/static/js/787.158a44fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9e4518f.css",
+    "static/js/main.1b3bfd7b.js"
+  ]
+}
