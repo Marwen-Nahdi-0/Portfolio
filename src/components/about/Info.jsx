@@ -25,7 +25,7 @@ const Info = () => {
           <h3 className="about__title">graduation
             </h3>  
             <span className="about__subtitle">
-              2 graduation            </span>
+              1 graduation            </span>
         </div>
     </div>
   )
