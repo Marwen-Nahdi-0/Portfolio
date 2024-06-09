@@ -1,7 +1,7 @@
 import React from 'react'
 import"./about.css";
-import AboutImg from "../../assets/marwenAbout.jpg";
-import CV from "../../assets/Marwen Nahdi CV-en.pdf";
+import AboutImg from "../../assets/marwenAbout.jpeg";
+import CV from "../../assets/Marwen Nahdi CV.pdf";
 import Info from './Info';
 const About = () => {
   return (
@@ -16,8 +16,7 @@ const About = () => {
   <div className="about__data">
     <Info/>
     <p className="about__description">
-    Student in a master's degree in computer science at the Faculty of Sciences of Tunis, I am looking for a work-study program to complete my studies, improve my skills and my professional experience.
-    </p>
+    As an engineering student specializing in Software and Information System Engineering at TEK-UP, I am eager to develop my skills and gain valuable professional experience to complement my academic journey."    </p>
     <a download="" href={CV} className="button button--flex">
         Download CV
         <svg

@@ -54,10 +54,10 @@ const Data = () => {
                   ></path>
         </svg>
         </h1>
-        <h3 className="home__subtitle">Developer
+        <h3 className="home__subtitle">Software Engineer
         </h3>
         <p className="home__description">
-        I am a student in computer science master at the Faculty of Sciences of Tunis.            </p>
+        I am a  student specializing in Software and Information System Engineering at TEK-UP, committed to advancing my expertise in this dynamic field.           </p>
             <a href="#contact" className="button button--flex">
                 Say Hello 
                 <svg

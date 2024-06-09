@@ -17,16 +17,15 @@ const Info = () => {
           <h3 className="about__title">Completed
             </h3>  
             <span className="about__subtitle">
-            2 Projects
+            +6 Projects
             </span>
         </div>
         <div className="about__box">
-            <i class="bx bx-support about__icon"></i>
-          <h3 className="about__title">Support
+            <i class="uil uil-graduation-cap about__icon"></i>
+          <h3 className="about__title">graduation
             </h3>  
             <span className="about__subtitle">
-            Online 24/7
-            </span>
+              2 graduation            </span>
         </div>
     </div>
   )

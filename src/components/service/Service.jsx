@@ -85,7 +85,7 @@ building and maintaining the server-side of web applications or systems.        
                             <li className="services__modal-service">
                                 <i className="uil uil-check-circle services__modal-icon"></i>
                            <p className="services__modal-info">
-work with programming languages such as Java , Python Node.js                           </p>
+work with programming languages such as Java , Python and JavaScript .                        </p>
                             </li>
 
                             <li className="services__modal-service">
@@ -159,7 +159,7 @@ work with programming languages such as Java , Python Node.js                   
                                 <i className="uil uil-check-circle services__modal-icon"></i>
                            <p className="services__modal-info">
 
-                           work with programming languages such as Java , Python Node.js                           </p>
+                           work with programming languages such as Java , Python and JavaScript .                           </p>
                             </li>
 
                             
