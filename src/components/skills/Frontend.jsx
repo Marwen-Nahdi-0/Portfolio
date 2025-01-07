@@ -8,15 +8,6 @@ const Frontend = () => {
       </h3>
       <div className="skills__box">
         <div className="skills__group">
-          <div className="skills__data">
-          <i class="bx bx-badge-check"></i>
-            <div>
-          <h3 className="skills__name">
-          HTML/CSS
-          </h3>
-          <span className="skills__level"> Intermediate</span>
-        </div>
-        </div>
 
         <div className="skills__data">
           <i class="bx bx-badge-check"></i>
@@ -24,14 +15,24 @@ const Frontend = () => {
           <h3 className="skills__name">
           Angular
           </h3>
-          <span className="skills__level">Basic </span>
+          <span className="skills__level">Intermediate </span>
         </div>
         </div>
 
         <div className="skills__data">
           <i class="bx bx-badge-check"></i>
           <div> <h3 className="skills__name">
-          JavaScript
+          Ionic
+          </h3>
+          <span className="skills__level"> Intermediate</span>
+        </div>
+        </div>
+
+        <div className="skills__data">
+          <i class="bx bx-badge-check"></i>
+            <div>
+          <h3 className="skills__name">
+          Flutter
           </h3>
           <span className="skills__level"> Intermediate</span>
         </div>
@@ -67,6 +68,8 @@ const Frontend = () => {
           </h3>
           <span className="skills__level">Intermediate </span>
         </div></div>
+
+        
 
         </div>
        

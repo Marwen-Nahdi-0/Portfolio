@@ -62,11 +62,11 @@ const Qualification = () => {
                         </div>
                         
                         <div>
-                            <h3 className="qualification__title"> Master in Computer Science</h3>
+                            <h3 className="qualification__title"> Degree in computer science</h3>
                                 <span className="qualification__subtitle">Faculty of Sciences of Tunis</span>
                                 <div className="qualification__calender">
                                     <i className="uil uil-calendar-alt">
-                                    </i>2022 - Present
+                                    </i>2020 - 2022 
                                 </div>
                            </div>
                           
@@ -79,11 +79,11 @@ const Qualification = () => {
                         
                         
                         <div>
-                            <h3 className="qualification__title">Degree in computer science</h3>
-                                <span className="qualification__subtitle">Faculty of Sciences of Tunis</span>
+                            <h3 className="qualification__title">Bachelor of Science in Information</h3>
+                                <span className="qualification__subtitle">Hrairia 2 High School</span>
                                 <div className="qualification__calender">
                                     <i className="uil uil-calendar-alt">
-                                    </i>2020 - 2022 
+                                    </i>2019
                                 </div>
                            </div>
                             
@@ -95,30 +95,7 @@ const Qualification = () => {
                         </div>
                     </div>
 
-                    <div className="qualification__data">
-                     
-                    <div></div>
-
-                        <div>
-                        <span className="qualification__rounder"></span>
-                        <span className="qualification__line">
-                            
-                        </span>
-                        </div>
-                        
-                       <div>
-                           <h3 className="qualification__title">Bachelor of Science in Information</h3>
-                               <span className="qualification__subtitle"> Hrairia 2 High School</span>
-                               <div className="qualification__calender">
-                                   <i className="uil uil-calendar-alt">
-                                   </i>2019
-                               </div>
-                          </div>
-                        
-
-                        
-                      
-                   </div>
+                    
 {/*
                    <div className="qualification__data">
                        <div></div>
@@ -147,19 +124,19 @@ const Qualification = () => {
                 <div className={toggleState === 2 ?"qualification__content qualification__content-active" :"qualification__content"}>
                     <div className="qualification__data">
                        
-                      
-                        
-                        <div>
-                            <h3 className="qualification__title"> Full Stack Developer </h3>
-                                <span className="qualification__subtitle"> Tunis - One Gate Africa</span>
+                    <div>
+                            <h3 className="qualification__title"> Full Stack Developer (Summer Intern)</h3>
+                                <span className="qualification__subtitle">Manouba - SQLI Services</span>
                                 <div className="qualification__calender">
                                     <i className="uil uil-calendar-alt">
-                                    </i>FEBRUARY 2022 – JUNE 2022
+                                    </i>July 2024 — August 2024
                                 </div>
                            </div>
+                        
+                        
                           
 
-                        <div>
+                      <div>
                         <span className="qualification__rounder"></span>
                         <span className="qualification__line">
                             
@@ -179,14 +156,14 @@ const Qualification = () => {
                         </div>
                         
                         <div>
-                            <h3 className="qualification__title"> ------</h3>
-                                <span className="qualification__subtitle">-----</span>
+                            <h3 className="qualification__title"> Full Stack Developer (End of studies intern)</h3>
+                                <span className="qualification__subtitle"> Tunis - One Gate Africa</span>
                                 <div className="qualification__calender">
                                     <i className="uil uil-calendar-alt">
-                                    </i>-------
+                                    </i>FEBRUARY 2022 – JUNE 2022
                                 </div>
                            </div>
-                           <div>
+                             <div>
                             <span className="qualificaton__rounder"> </span>
                                 <span className="qualification__line">
 
@@ -196,7 +173,7 @@ const Qualification = () => {
                         
                     </div>
 
-                    <div className="qualification__data">
+               {/*     <div className="qualification__data">
                      
                     
                         
@@ -238,7 +215,7 @@ const Qualification = () => {
                                </div>
                           </div>
                        
-                   </div>
+                   </div> */}
                 </div>
             </div>
 
