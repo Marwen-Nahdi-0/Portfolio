@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.b40cb9b7.css",
-    "main.js": "/Portfolio/static/js/main.f71f745e.js",
+    "main.css": "/Portfolio/static/css/main.cf664aa8.css",
+    "main.js": "/Portfolio/static/js/main.32a06e16.js",
     "static/js/787.158a44fe.chunk.js": "/Portfolio/static/js/787.158a44fe.chunk.js",
     "static/media/marwenAbout.jpeg": "/Portfolio/static/media/marwenAbout.3a5465899714e8386899.jpeg",
     "static/media/marwen.jpeg": "/Portfolio/static/media/marwen.5bc397852848e81450de.jpeg",
-    "static/media/Marwen_Nahdi_CV.pdf": "/Portfolio/static/media/Marwen_Nahdi_CV.eb3938d590a23cb03a14.pdf",
+    "static/media/Marwen_Nahdi_CV.pdf": "/Portfolio/static/media/Marwen_Nahdi_CV.0d4f0382c69e4d449593.pdf",
     "index.html": "/Portfolio/index.html",
-    "main.b40cb9b7.css.map": "/Portfolio/static/css/main.b40cb9b7.css.map",
-    "main.f71f745e.js.map": "/Portfolio/static/js/main.f71f745e.js.map",
+    "main.cf664aa8.css.map": "/Portfolio/static/css/main.cf664aa8.css.map",
+    "main.32a06e16.js.map": "/Portfolio/static/js/main.32a06e16.js.map",
     "787.158a44fe.chunk.js.map": "/Portfolio/static/js/787.158a44fe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b40cb9b7.css",
-    "static/js/main.f71f745e.js"
+    "static/css/main.cf664aa8.css",
+    "static/js/main.32a06e16.js"
   ]
 }
