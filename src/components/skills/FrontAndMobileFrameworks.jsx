@@ -1,10 +1,10 @@
 import React from 'react'
 
-const Backend = () => {
+const FrontAndMobileFrameworks = () => {
   return (
     <div className="skills__content">
       <h3 className="skills__title">
-      Backend Developer
+      Frontend And Mobile Frameworks 
       </h3>
       <div className="skills__box">
         <div className="skills__group">
@@ -14,7 +14,7 @@ const Backend = () => {
 
           <div>
           <h3 className="skills__name">
-          SpringBoot
+          React
           </h3>
           <span className="skills__level"> Intermediate</span>
         </div>
@@ -26,7 +26,7 @@ const Backend = () => {
 
           <div>
           <h3 className="skills__name">
-          Node Js
+          React Native
           </h3>
           <span className="skills__level"> Intermediate</span>
         </div>
@@ -37,9 +37,9 @@ const Backend = () => {
           <div>
           
           <h3 className="skills__name">
-          MySQL
+          Vue.js
           </h3>
-          <span className="skills__level"> Intermediate</span>
+          <span className="skills__level"> basic</span>
           </div>
         </div>
         </div>
@@ -50,7 +50,7 @@ const Backend = () => {
 
           <div>
           <h3 className="skills__name">
-          Symfony
+          Angular
           </h3>
           <span className="skills__level"> Intermediate</span>
         </div>
@@ -60,9 +60,9 @@ const Backend = () => {
           <i class="bx bx-badge-check"></i>
           <div>
           <h3 className="skills__name">
-          Django
+          Ionic
           </h3>
-          <span className="skills__level"> Basic</span>
+          <span className="skills__level"> Intermediate</span>
         </div>
         </div>
 
@@ -71,7 +71,7 @@ const Backend = () => {
 
           <div>
           <h3 className="skills__name">
-          MongoDB
+          Tailwind CSS
           </h3>
           <span className="skills__level"> Intermediate</span>
         </div>
@@ -84,4 +84,4 @@ const Backend = () => {
   )
 }
 
-export default Backend
+export default FrontAndMobileFrameworks

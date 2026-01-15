@@ -37,7 +37,7 @@ const Qualification = () => {
                                <span className="qualification__subtitle">TEK-UP</span>
                                <div className="qualification__calender">
                                    <i className="uil uil-calendar-alt">
-                                   </i>2023 - Present
+                                   </i>2023 - 2025
                                </div>
                           </div>
                          
@@ -95,6 +95,18 @@ const Qualification = () => {
                         </div>
                     </div>
 
+<div className="qualification__data">
+                        
+                        
+                        <div>
+                            
+                           </div>
+                            
+                           <div style={{textAlign:"center"}}>
+                        <span className="qualification__rounder"></span>
+                       <div>2019</div>
+                        </div>
+                    </div>
                     
 {/*
                    <div className="qualification__data">
@@ -125,11 +137,11 @@ const Qualification = () => {
                     <div className="qualification__data">
                        
                     <div>
-                            <h3 className="qualification__title"> Full Stack Developer (Summer Intern)</h3>
-                                <span className="qualification__subtitle">Manouba - SQLI Services</span>
+                            <h3 className="qualification__title"> Full Stack Developer (End of studies intern)</h3>
+                                <span className="qualification__subtitle">Tunis - HeadsApp</span>
                                 <div className="qualification__calender">
-                                    <i className="uil uil-calendar-alt">
-                                    </i>July 2024 — August 2024
+                                    <i className="uil uil-calendar-alt ">
+                                    </i>February 2025 — August 2025
                                 </div>
                            </div>
                         
@@ -156,23 +168,57 @@ const Qualification = () => {
                         </div>
                         
                         <div>
-                            <h3 className="qualification__title"> Full Stack Developer (End of studies intern)</h3>
-                                <span className="qualification__subtitle"> Tunis - One Gate Africa</span>
+                            <h3 className="qualification__title">Full Stack Developer (Summer Intern) </h3>
+                                <span className="qualification__subtitle"> Manouba - SQLI Services</span>
                                 <div className="qualification__calender">
                                     <i className="uil uil-calendar-alt">
-                                    </i>FEBRUARY 2022 – JUNE 2022
+                                    </i>July 2024 — August 2024
                                 </div>
                            </div>
                              <div>
                             <span className="qualificaton__rounder"> </span>
                                 <span className="qualification__line">
-
                                 </span>
                             
                         </div>
                         
                     </div>
 
+<div className="qualification__data">
+                       
+                    <div>
+                            <h3 className="qualification__title">Full Stack Developer (End of studies intern)</h3>
+                                <span className="qualification__subtitle">Tunis - One Gate Africa</span>
+                                <div className="qualification__calender">
+                                    <i className="uil uil-calendar-alt">
+                                    </i>February 2022 – June 2022
+                                </div>
+                           </div>
+                        
+                        
+                          
+
+                      <div>
+                        <span className="qualification__rounder"></span>
+                        <span className="qualification__line">
+                            
+                        </span>
+                        </div>
+                       
+                    </div>
+
+                    <div className="qualification__data">
+                        
+                        
+                        <div>
+                            
+                           </div>
+                            
+                           <div style={{textAlign:"center"}}>
+                        <span className="qualification__rounder"></span>
+                       <div>2019</div>
+                        </div>
+                    </div>
                {/*     <div className="qualification__data">
                      
                     

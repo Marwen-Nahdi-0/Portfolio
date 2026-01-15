@@ -16,7 +16,10 @@ const About = () => {
   <div className="about__data">
     <Info/>
     <p className="about__description">
-    As an engineering student specializing in Software and Information System Engineering at TEK-UP, I am eager to develop my skills and gain valuable professional experience to complement my academic journey."    </p>
+  Focused on continuous learning and professional growth, I seek opportunities to
+strengthen my engineering skills through real-world challenges and contribute to
+high-quality software solutions.
+   </p>
     <a download="" href={CV} className="button button--flex">
         Download CV
         <svg
